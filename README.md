@@ -56,5 +56,7 @@ This coding was pretty straight forward and was broken into steps that were smal
 #Results
 The results involved a lot of code rearranging and slight modifications in order to manipulate it to get the desired output on the LCD.
 
+All results were displayed several times to Dr. York for approval and recorded on the turned in grade sheet.
+
 #Documentation
 Dr. Coulston's given code and my lab 3 code.
