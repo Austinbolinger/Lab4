@@ -57,4 +57,4 @@ This coding was pretty straight forward and was broken into steps that were smal
 The results involved a lot of code rearranging and slight modifications in order to manipulate it to get the desired output on the LCD.
 
 #Documentation
-NONE
+Dr. Coulston's given code and my lab 3 code.
